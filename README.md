@@ -29,7 +29,7 @@
 		<font color="#FFFF00"> 			<h1><p align="center">一班的大神们，注意了！</p>	</h1></font>
 		<font color="#FF0088"> 			<h2><p align="center">现在是停课时间！请活动30分钟，在打游戏。本会议js代码有你们摄像头记录！</p>	</h2></font>
 			
-	<font color="red"> 			<h2><p align="center">谢谢您的配合！助语：兰色妖姬你不爱，渣男身上找存在</p>	</h2></font>
+	<font color=“red”> <h2><p align=“center”>感谢您的配合！助语：兰色妖姬你不爱，渣男n身上找存在</p></h2></font>				
 	
 	<h1><p align="center"><img src="https://p0.ssl.img.360kuai.com/t01b9a4271525224706.webp"></p>
 	</header>
